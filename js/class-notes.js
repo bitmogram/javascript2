@@ -21,3 +21,4 @@
 
 
 // Words that cant be used for variables in JS:  new,
+// Many of Java Scripts pre made functions begin with an upper case letter.
