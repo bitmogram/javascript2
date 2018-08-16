@@ -18,3 +18,6 @@
 // var myAge = 35;
 // console.log("Hello, " + myName + "! You are " + myAge + " years old. ");
 //
+
+
+// Words that cant be used for variables in JS:  new,
