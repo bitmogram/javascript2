@@ -47,4 +47,4 @@ const rand = Math.floor((Math.random() * 10) + 1);  //The plus one keeps us from
 
 //another way to use prompts.
 let name = prompt('Please enter your name');
-alert(`hello ${name}`);  //THIS I SMUY IMPORTANTE!!!!
+alert(`hello ${name}`);  //THIS I MUY IMPORTANTE!!!!
