@@ -17,7 +17,7 @@
 
 // if (1 !== "1") {
 //   console.log("I am a bird");
-//   // console.log(!true);
+//   console.log(!true);
 // }
 
 // Else means essentially, if your code doesnt fire do this. It's a safety net to handle errors.
@@ -56,7 +56,7 @@
 // }
 
 //In this example, we will use == instead of === because we have a non number on the righ side of the equasion.
-// const userInput = prompt('Please enter a nunber:');
+// const userInput = prompt('Please enter a number:');
 // if (1 == userInput) {
 //   console.log('Enter Site');
 // } else {
@@ -130,8 +130,8 @@
 // const remainder = 11 % 3; //There are no such things as percentages in Java Script.
 // console.log(remainder);
 
-//This is doing a series of mathamatical equasions. 
-let myNum = 1;
+//This is doing a series of mathamatical equasions.
+// let myNum = 1;
 // console.log(myNum++);
 // Incement
 // myNum++;
@@ -139,8 +139,8 @@ let myNum = 1;
 // myNum--;
 // myNum = myNum + 3; WRONG WAY
 // myNum += 3; CORRECT WAY
-myNum += 3;
-myNum -= 10;
-myNum *= 5;
-myNum /= 12;
-console.log(myNum);
+// myNum += 3;
+// myNum -= 10;
+// myNum *= 5;
+// myNum /= 12;
+// console.log(myNum);
